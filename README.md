@@ -3,7 +3,8 @@ We need to build the model to determine the price of a used car.We are intereste
 
 - the quality of the prediction
 - the speed of the prediction
-- the time required for training
+- the time required for training \
+
 The dataset can be found here: www.kaggle.com/dataset/f8a4f6645bbf81179d976bfd42fa80ee167f68e4408da355810110f0dc6ac001
 
 Step 1: Preprocess the data \
